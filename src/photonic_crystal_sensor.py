@@ -1,11 +1,7 @@
 """
 Photonic Crystal Refractive-Index Sensor
 ----------------------------------------
-Transfer Matrix Method (TMM) model for a 1D dielectric multilayer
-with a central sensing/defect layer.
 
-Run:
-    python src/photonic_crystal_sensor.py
 """
 
 from pathlib import Path
