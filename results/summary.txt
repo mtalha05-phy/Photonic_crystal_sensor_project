@@ -1,0 +1,15 @@
+PHOTONIC CRYSTAL SENSOR - BASELINE RESULTS
+
+Baseline sensing index: 1.3300 RIU
+Resonance wavelength: 564.5000 nm
+Peak transmission: 1.000000
+
+Bulk sensitivity: 245.1961 nm/RIU
+Linear-fit R^2: 0.013955
+
+Structure:
+(A/B)^5 / Defect / (B/A)^5
+
+A: n=1.45, d=120.0 nm
+B: n=2.0, d=90.0 nm
+Defect: d=250.0 nm
